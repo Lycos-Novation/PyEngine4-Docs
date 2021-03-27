@@ -21,7 +21,7 @@ What are the dependencies of PyEngine?
 --------------------------------------
 
 Apart from Python, PyEngine uses PyGame and PyQt.
-But games builded with PyEngine only use PyGame.
+But games built with PyEngine only use PyGame.
 
 What are the platforms where PyEngine can be used?
 --------------------------------------------------
