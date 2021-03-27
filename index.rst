@@ -22,9 +22,11 @@ Sommaire :
    Informations/faq
    Informations/changelog
 
-Indices and tables
-==================
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+    :maxdepth: 1
+    :caption: Engine
+    :name: sec-Engine
+
+    engine/project_window.rst
+    engine/editor.rst
 
