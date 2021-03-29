@@ -32,4 +32,10 @@ Sommaire :
     :maxdepth: 1
     :caption: Compoenents
 
+    engine/components/auto_component.rst
+    engine/components/basicphysic_component.rst
+    engine/components/collision_component.rst
+    engine/components/sprite_component.rst
+    engine/components/spritesheet_component.rst
+    engine/components/text_component.rst
     engine/components/transform_component.rst
