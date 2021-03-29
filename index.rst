@@ -10,7 +10,7 @@ Feel free to come back to it as soon as you have a problem.
 .. note:: It is important to remember that PyEngine is an OpenSource project developed by non-professionals.
     You can also participate with Github.
 
-Sommaire :
+Summary:
 
 .. toctree::
    :maxdepth: 1
@@ -34,7 +34,7 @@ Sommaire :
 
 .. toctree::
     :maxdepth: 1
-    :caption: Compoenents
+    :caption: Components
 
     engine/components/auto_component.rst
     engine/components/basicphysic_component.rst
