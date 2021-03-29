@@ -15,7 +15,6 @@ Sommaire :
 .. toctree::
    :maxdepth: 1
    :caption: Informations
-   :name: sec-general
 
    Informations/introduction
    Informations/telechargement-et-installation
@@ -25,8 +24,12 @@ Sommaire :
 .. toctree::
     :maxdepth: 1
     :caption: Engine
-    :name: sec-Engine
 
     engine/project_window.rst
     engine/editor.rst
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Compoenents
+
+    engine/components/transform_component.rst
