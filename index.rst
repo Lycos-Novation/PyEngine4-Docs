@@ -27,6 +27,10 @@ Sommaire :
 
     engine/project_window.rst
     engine/editor.rst
+    engine/game.rst
+    engine/scene.rst
+    engine/game_object.rst
+    engine/engine.rst
 
 .. toctree::
     :maxdepth: 1
