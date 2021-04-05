@@ -38,8 +38,17 @@ Summary:
 
     engine/components/auto_component.rst
     engine/components/basicphysic_component.rst
+    engine/components/button_component.rst
     engine/components/collision_component.rst
     engine/components/sprite_component.rst
     engine/components/spritesheet_component.rst
     engine/components/text_component.rst
     engine/components/transform_component.rst
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Utils
+
+    engine/utils/color.rst
+    engine/utils/math.rst
+    engine/utils/vec2.rst
