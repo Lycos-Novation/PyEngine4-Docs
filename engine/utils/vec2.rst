@@ -10,7 +10,7 @@ Variables
 - y: Y coords (integer)
 
 Functions
-^^^^^^^^^
+---------
 
 - coords(): Return list with X and Y coords
 - set_coords(x, y): Set x and y coords (x -> integer, y -> integer)

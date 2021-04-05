@@ -14,7 +14,7 @@ Variables
 .. note:: These components must be between 0 and 255
 
 Functions
-^^^^^^^^^
+---------
 
 - darker(force=1): Return a darker color. (force -> integer)
 - lighter(force=1): Return a lighter color. (force -> integer)
