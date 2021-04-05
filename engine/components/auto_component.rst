@@ -19,8 +19,8 @@ Variables
 
 - game_object: Object which own this component (GameObject)
 - engine: Utility class to control the game (Engine)
-- move: Movement of component (list of two integers)
-- rotation: Rotation of component in degrees (integers)
+- move: Movement of component (Vec2)
+- rotation: Rotation of component in degrees (integer)
 - active: True if component is active
 
 Functions

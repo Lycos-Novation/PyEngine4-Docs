@@ -19,7 +19,7 @@ Variables
 - game_object: Object which own this component (GameObject)
 - engine: Utility class to control the game (Engine)
 - solid: True if object is solid (boolean)
-- callback: Component and its function which will be call (string)
+- callback: Component and its function which will be call on collide (string)
 
 .. note:: callback use a specific format : "NameComponent - NameFunction".
     For example: "myScript - collide" is a valid callback.
@@ -29,4 +29,4 @@ Variables
 Functions
 ^^^^^^^^^
 
-- can_go(position, cause="UNKNOWN"): Return if object can go to a position. (position -> list of two integers, cause -> string)
+- can_go(position, cause="UNKNOWN"): Return if object can go to a position. (position -> Vec2, cause -> string)

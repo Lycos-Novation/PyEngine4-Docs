@@ -6,7 +6,8 @@ Class which represents a world for the game.
 Variables
 ---------
 
-- bg_color: Color of background (list of four integers : [Red, Green, Blue, Alpha])
+- bg_color: Color of background (Color)
+- timescale: Scale of time (integer)
 - game_objects: List of Game Objects own by the scene (List of GameObject)
 
 .. warning:: game_objects mustn't be manipulated, use functions.
