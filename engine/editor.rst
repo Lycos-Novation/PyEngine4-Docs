@@ -42,6 +42,14 @@ A texture is a .PNG or .JPG file which can be used for a sprite.
 On creation, PyEngine4 ask a name and a path to the file.
 If you double click on it, you will be able to change the path.
 
+Sounds
+^^^^^^
+
+A sounds is a .WAV, .OGG or .MP3 which can be used in AudioComponent or MusicComponent.
+
+On create, PyEngine4 ask a name and a path to the file.
+If you double click on it, you will be able to change the path.
+
 Scenes
 ^^^^^^
 

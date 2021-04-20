@@ -8,7 +8,7 @@ Editor
 
 In the editor, you can change keys, control type and speed.
 
-.. note:: Keys with pygame's names and space to separate two keys.
+.. note:: Keys with pygame's names and space to separate keys.
 
 .. note:: List of Control type :
     - FOURDIRECTION : Object can move in four directions (Up, Down, Left, Right)

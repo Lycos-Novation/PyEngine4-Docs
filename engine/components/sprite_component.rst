@@ -8,7 +8,7 @@ This component add sprite to game object.
 Editor
 ------
 
-In the editor, you can change sprite by selecting json file.
+In the editor, you can change sprite by selecting json file or drag and drop.
 
 Script
 ------

@@ -26,6 +26,7 @@ Summary:
     :caption: Engine
 
     engine/project_window.rst
+    engine/settings.rst
     engine/editor.rst
     engine/game.rst
     engine/scene.rst

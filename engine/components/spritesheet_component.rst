@@ -8,7 +8,7 @@ This component add spritesheet to game object.
 Editor
 ------
 
-In the editor, you can change spritesheet by selecting json file but also the numbers of sprite and the current index of sprite.
+In the editor, you can change spritesheet by selecting json file or drag and drop but also the numbers of sprite and the current index of sprite.
 
 Script
 ------

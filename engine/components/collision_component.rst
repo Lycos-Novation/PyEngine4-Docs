@@ -8,7 +8,7 @@ This component add collision and collision callback to game object.
 Editor
 ------
 
-In the editor, you can change if object is solid with a checkbox and specify a callback by giving the name of component and the function will be called.
+In the editor, you can change the size of collision, if the object is solid with a checkbox and specify a callback by giving the name of component and the function will be called.
 
 Script
 ------
@@ -20,6 +20,7 @@ Variables
 - engine: Utility class to control the game (Engine)
 - solid: True if object is solid (boolean)
 - callback: Component and its function which will be call on collide (string)
+- size: Size of the collider (Vec2)
 
 .. note:: callback use a specific format : "NameComponent - NameFunction".
     For example: "myScript - collide" is a valid callback.

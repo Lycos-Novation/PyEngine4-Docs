@@ -10,8 +10,9 @@ Variables
 - childs: List of childs game objects of current object (list of GameObject)
 - components: List of components of current object (list of Components)
 - id\_: Id of object (integer)
+- tag : Tag of object (string)
 
-.. warning:: Most of these variables mustn't be manipulated. Only id\_ and parents are safe on reading.
+.. warning:: Most of these variables mustn't be manipulated. Only id\_ and parents are safe on reading and tag is safe reading and writing.
 
 Functions
 ---------
