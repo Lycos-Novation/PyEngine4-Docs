@@ -37,10 +37,14 @@ Summary:
     :maxdepth: 1
     :caption: Components
 
+    engine/components/anim_component.rst
     engine/components/auto_component.rst
     engine/components/basicphysic_component.rst
     engine/components/button_component.rst
     engine/components/collision_component.rst
+    engine/components/control_component.rst
+    engine/components/music_component.rst
+    engine/components/sound_component.rst
     engine/components/sprite_component.rst
     engine/components/spritesheet_component.rst
     engine/components/text_component.rst
